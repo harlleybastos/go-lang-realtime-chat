@@ -1,5 +1,5 @@
 {
-  "name": "next-exaple",
+  "name": "next-chat",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "next": "12.2.0",
+    "pusher-js": "^7.1.1-beta",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
